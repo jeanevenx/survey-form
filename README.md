@@ -1,8 +1,8 @@
-# Tribute Page
+# Survey Form
 <img src="./assets/snapshot-survey.png">
 <br/><br/>
 
-## FreeCodeCamp's second responsive web design project based on the following user stories.
+## FreeCodeCamp's second responsive web design project based on the following user stories:
 <br/><br/>
 
 ### Objective: Build an app that is functionally similar to <a>https://survey-form.freecodecamp.rocks</a>
